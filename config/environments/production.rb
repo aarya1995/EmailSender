@@ -79,7 +79,7 @@ MailSender::Application.configure do
   config.log_formatter = ::Logger::Formatter.new
 
   config.action_mailer.default_url_options = {
-            :host => "heroku.herokuapp.com", #heroku url
+            :host => "http://limitless-tundra-7156.herokuapp.com", #heroku url
             :port => 80
         }
 end

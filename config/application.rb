@@ -26,7 +26,7 @@ module MailSender
         address:              'smtp.gmail.com',
         port:                 587,
         #domain:               'gmail.com',
-        user_name:            'abhas.aryaa',
+        user_name:            'abhas.aryaa@gmail.com',
         password:             '5kv6asfq',
         authentication:       'plain',
         enable_starttls_auto: true  

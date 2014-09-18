@@ -6,6 +6,6 @@ class MyMailer < ActionMailer::Base
 
   		mail(to: user.email,
   		 	 from: 'abhas.aryaa@gmail.com',
-  		 	 subject: 'Welcome!')
+  		 	 subject: 'BOOOOYAAAA!!!!!')
   end
 end
